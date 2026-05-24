@@ -24,8 +24,8 @@ This was an early project built to demonstrate fundamental web development skill
 
 ## Context
 
-This project was submitted as part of a minor project requirement in one of my undergraduate semesters. It reflects where I was in my learning journey at the time (kept it here for portfolio completeness).
+This project was submitted as part of a minor project requirement in one of my undergraduate semesters. It reflects where I was in my learning journey at the time.
 
 ---
 
-*Built in 2019 as an undergrad minor project.*
+*Built in 2019 as an undergrad minor project, kept it here for portfolio completeness.*
